@@ -1,0 +1,10 @@
+{
+  "realm": "ocr",
+  "auth-server-url": "https://auth-test.lamzing.com/",
+  "ssl-required": "external",
+  "resource": "ocr_test",
+  "public-client": true,
+  "verify-token-audience": true,
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
